@@ -48,7 +48,7 @@ When uploading GIFs to Steam profiles, the platform often enforces strict aspect
 6.  Upload to Steam using the corresponding browser console script (READ BELOW). 
 
 ### 🛠️ Steam Console Scripts
-To bypass the upload validation, paste the corresponding code into your browser console (`F12` > Console) while on the Steam upload page:
+To bypass the upload validation, paste the corresponding code into your browser console (`F12` > Console) while on the Steam upload page and `before` clicking `Save and Continue`:
 <br>
 <a href="https://steamcommunity.com/sharedfiles/edititem/767/3/" target="_blank">🚀 Open Steam Upload Page</a>
 
