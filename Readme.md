@@ -44,6 +44,7 @@ Bypass Steam's strict upload restrictions for Workshop and Artwork showcases. Th
 To ensure the best quality under Steam's **5MB limit**, follow these steps:
 
 1.  **Download:** Get the latest version from Releases (or copy the code and make a bat file yourself).
+    <br>
     **IMPORTANT NOTE:** ffmpeg.exe is required to be in the same folder as WorkshopSplitter.bat for it to work properly.
 3.  **Split:** Run `WorkshopSplitter.bat` to generate the 5 raw segments in the `/workshop_output` folder.
 4.  **Optimize:** If any of your gifs are over 5 MB, take those GIFs to an optimizer (like [Ezgif](https://ezgif.com/optimize)) to ensure each is under 5MB. 
